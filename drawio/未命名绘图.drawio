@@ -1362,13 +1362,13 @@
         <mxCell id="z1hONrIg20Ch6krkRrBP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2560" width="80" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="z1hONrIg20Ch6krkRrBP-5" value="16位port" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="z1hONrIg20Ch6krkRrBP-5" value="16位port" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z1hONrIg20Ch6krkRrBP-6" value="32位IP" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="z1hONrIg20Ch6krkRrBP-6" value="32位IP" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2600" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z1hONrIg20Ch6krkRrBP-7" value="8字节填充" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="z1hONrIg20Ch6krkRrBP-7" value="8字节填充" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2660" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="z1hONrIg20Ch6krkRrBP-8" value="16位地址类型：&lt;br&gt;AF_UNIX" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
