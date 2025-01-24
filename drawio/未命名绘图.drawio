@@ -2510,7 +2510,7 @@
         <mxCell id="a929JkwRE2RPM3ByPToa-64" value="&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;SYN_RCVD&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2040" y="2642" width="70" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="a929JkwRE2RPM3ByPToa-65" value="&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;LISTEN&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FFB570;" vertex="1" parent="1">
+        <mxCell id="a929JkwRE2RPM3ByPToa-65" value="&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;LISTEN&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;（被动打开）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="2040" y="2600" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a929JkwRE2RPM3ByPToa-66" value="&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;CLOSED&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -2566,6 +2566,21 @@
         </mxCell>
         <mxCell id="a929JkwRE2RPM3ByPToa-86" value="connect返回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="1703" y="2659" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a929JkwRE2RPM3ByPToa-91" value="listenfd = socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="2560" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a929JkwRE2RPM3ByPToa-92" value="bind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2108" y="2578" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a929JkwRE2RPM3ByPToa-93" value="listen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="2600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a929JkwRE2RPM3ByPToa-94" value="connfd = accept（阻塞）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="2622" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a929JkwRE2RPM3ByPToa-96" value="accept返回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="2686" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
