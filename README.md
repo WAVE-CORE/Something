@@ -1,2 +1,1 @@
-# PicGo_Save
-saving the images from Typora
+As an open repository facilitating work and learning
